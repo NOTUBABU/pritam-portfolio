@@ -103,7 +103,7 @@ export function Hero() {
 
           <div className="mt-8 flex flex-wrap gap-3">
             <a
-              href={resumeAsset.url}
+              href="/Pritam-Ghosh-Resume.pdf"
               download="Pritam-Ghosh-Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
